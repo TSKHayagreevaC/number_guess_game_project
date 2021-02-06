@@ -1,3 +1,5 @@
+# This File Is About Python And Scope
+
 # enemies = 1
 
 # def increase_enemies():
